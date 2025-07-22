@@ -1,0 +1,16 @@
+.wrapper{
+    max-width: 400px;
+    width: auto;
+    background: rgb(70, 180, 188);
+    padding: 30px;
+    
+}
+.inputfield{
+    height: 100%;
+
+    padding-left: 100px;
+}
+.todoList{
+    color: rgb(2, 2, 2);
+  
+}
